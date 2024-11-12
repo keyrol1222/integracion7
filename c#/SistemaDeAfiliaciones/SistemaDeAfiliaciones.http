@@ -1,0 +1,6 @@
+@SistemaDeAfiliaciones_HostAddress = http://localhost:5167
+
+GET {{SistemaDeAfiliaciones_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
